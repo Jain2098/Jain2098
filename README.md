@@ -8,15 +8,15 @@
 
 ## 👨🏻‍💻 About Me:
 
--   🌱 I’m currently learning **Data Structures and Algorithms**
+-   🌱 I’m currently learning **DSA** and **SAA-C03**.
 
--   👨‍💻 All of my projects are available at [Repositories](https://github.com/Jain2098?tab=repositories) | [Portfolio](https://himanshujain.me/)
+-   👨‍💻 All of my projects are available at [Repositories](https://github.com/Jain2098?tab=repositories) | [Portfolio](https://himanshujain.me/).
 
 - 👯 I’m interested in **Software Development.**
 
--   💬 Ask me about **JAVA, Python, ReactJS, SpringBoot, FastAPI, MongoDB, Web Development**
+-   💬 Ask me about **JAVA, Python, ReactJS, SpringBoot, FastAPI, MongoDB, Web Development**.
 
-- 📫 How to reach me **info@himanshujain.me**
+- 📫 How to reach me **info@himanshujain.me**.
 
 ## ❤️ Let's get connected:
 
