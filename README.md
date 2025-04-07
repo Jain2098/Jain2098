@@ -10,7 +10,7 @@
 
 -   🌱 I’m currently learning **Data Structures and Algorithms**
 
--   👨‍💻 All of my projects are available at [https://github.com/jain2098](https://github.com/jain2098)
+-   👨‍💻 All of my projects are available at [Repositories](https://github.com/Jain2098?tab=repositories) | [Portfolio](https://himanshujain.me/)
 
 - 👯 I’m interested in **Software Development.**
 
